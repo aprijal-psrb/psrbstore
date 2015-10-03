@@ -1,4 +1,3 @@
-Hi
-Ini bukan website.
+Hi, ini bukan website.
 <?php
 ?>
